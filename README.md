@@ -1,4 +1,4 @@
-> "_Second, researchers have an obligation to themselves to act in a responsible and honest way._" [^1,2]
+> "_Second, researchers have an obligation to themselves to act in a responsible and honest way._" [^1] [^2]
 
 # MSc-Thesis-Replication
 
@@ -16,4 +16,4 @@ This folder contains all the codes used to conduct geospatial analysis in ArcGIS
 # Reference 
 [^1]: National Acadadmy of Science 2009. On Being a Scientist: A Guide to Responsible Conduct in Research. Washington, DC: Natl.
 Acad. Press
-[^2]:National Academies of Sciences, Engineering, and Medicine. 2019. Reproducibility and Replicability in Science. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303._
+[^2]: National Academies of Sciences, Engineering, and Medicine. 2019. Reproducibility and Replicability in Science. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303._
